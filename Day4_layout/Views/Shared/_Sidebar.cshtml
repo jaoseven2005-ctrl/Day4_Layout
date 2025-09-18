@@ -1,0 +1,49 @@
+﻿@using Microsoft.AspNetCore.Mvc.Rendering
+@inject Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<dynamic> Html
+
+<aside class="main-sidebar sidebar-dark-primary elevation-4">
+    <!-- Brand Logo -->
+    <a href="/" class="brand-link">
+        <img src="~/dist/img/AdminLTELogo.png" alt="AdminLTE Logo"
+             class="brand-image img-circle elevation-3" style="opacity:.8">
+        <span class="brand-text font-weight-light">AdminLTE 3</span>
+    </a>
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <!-- Sidebar user -->
+        <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+            <div class="image">
+                <img src="~/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
+            </div>
+            <div class="info">
+                <a href="#" class="d-block">Văn Thanh</a>
+            </div>
+        </div>
+
+        <!-- Sidebar Menu -->
+        <nav class="mt-2">
+            <ul class="nav nav-pills nav-sidebar flex-column" role="menu">
+
+                <!-- Dashboard -->
+                <li class="nav-item">
+                    <a asp-controller="Home" asp-action="Index"
+                       class="nav-link @(ViewContext.RouteData.Values["action"]?.ToString() == "Index" ? "active" : "")">
+                        <i class="nav-icon fas fa-tachometer-alt"></i>
+                        <p>Dashboard</p>
+                    </a>
+                </li>
+
+                <!-- About -->
+                <li class="nav-item">
+                    <a asp-controller="Home" asp-action="About"
+                       class="nav-link @(ViewContext.RouteData.Values["action"]?.ToString() == "About" ? "active" : "")">
+                        <i class="nav-icon fas fa-info-circle"></i>
+                        <p>About</p>
+                    </a>
+                </li>
+
+            </ul>
+        </nav>
+    </div>
+</aside>

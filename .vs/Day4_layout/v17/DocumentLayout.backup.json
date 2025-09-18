@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tn180\\OneDrive\\Desktop\\Thiet ke web\\Day4_layout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0585E8B-B029-42A6-B608-8B08715C2466}|Day4_layout\\Day4_layout.csproj|c:\\users\\tn180\\onedrive\\desktop\\thiet ke web\\day4_layout\\day4_layout\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0585E8B-B029-42A6-B608-8B08715C2466}|Day4_layout\\Day4_layout.csproj|solutionrelative:day4_layout\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0585E8B-B029-42A6-B608-8B08715C2466}|Day4_layout\\Day4_layout.csproj|c:\\users\\tn180\\onedrive\\desktop\\thiet ke web\\day4_layout\\day4_layout\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0585E8B-B029-42A6-B608-8B08715C2466}|Day4_layout\\Day4_layout.csproj|solutionrelative:day4_layout\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0585E8B-B029-42A6-B608-8B08715C2466}|Day4_layout\\Day4_layout.csproj|c:\\users\\tn180\\onedrive\\desktop\\thiet ke web\\day4_layout\\day4_layout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0585E8B-B029-42A6-B608-8B08715C2466}|Day4_layout\\Day4_layout.csproj|solutionrelative:day4_layout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0585E8B-B029-42A6-B608-8B08715C2466}|Day4_layout\\Day4_layout.csproj|c:\\users\\tn180\\onedrive\\desktop\\thiet ke web\\day4_layout\\day4_layout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0585E8B-B029-42A6-B608-8B08715C2466}|Day4_layout\\Day4_layout.csproj|solutionrelative:day4_layout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0585E8B-B029-42A6-B608-8B08715C2466}|Day4_layout\\Day4_layout.csproj|c:\\users\\tn180\\onedrive\\desktop\\thiet ke web\\day4_layout\\day4_layout\\views\\shared\\_controlsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0585E8B-B029-42A6-B608-8B08715C2466}|Day4_layout\\Day4_layout.csproj|solutionrelative:day4_layout\\views\\shared\\_controlsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0585E8B-B029-42A6-B608-8B08715C2466}|Day4_layout\\Day4_layout.csproj|c:\\users\\tn180\\onedrive\\desktop\\thiet ke web\\day4_layout\\day4_layout\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0585E8B-B029-42A6-B608-8B08715C2466}|Day4_layout\\Day4_layout.csproj|solutionrelative:day4_layout\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tn180\\OneDrive\\Desktop\\Thiet ke web\\Day4_layout\\Day4_layout\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day4_layout\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tn180\\OneDrive\\Desktop\\Thiet ke web\\Day4_layout\\Day4_layout\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Day4_layout\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T13:45:38.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ControlSidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\tn180\\OneDrive\\Desktop\\Thiet ke web\\Day4_layout\\Day4_layout\\Views\\Shared\\_ControlSidebar.cshtml",
+              "RelativeDocumentMoniker": "Day4_layout\\Views\\Shared\\_ControlSidebar.cshtml",
+              "ToolTip": "C:\\Users\\tn180\\OneDrive\\Desktop\\Thiet ke web\\Day4_layout\\Day4_layout\\Views\\Shared\\_ControlSidebar.cshtml",
+              "RelativeToolTip": "Day4_layout\\Views\\Shared\\_ControlSidebar.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T13:44:14.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\tn180\\OneDrive\\Desktop\\Thiet ke web\\Day4_layout\\Day4_layout\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Day4_layout\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\tn180\\OneDrive\\Desktop\\Thiet ke web\\Day4_layout\\Day4_layout\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "Day4_layout\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T13:43:35.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\tn180\\OneDrive\\Desktop\\Thiet ke web\\Day4_layout\\Day4_layout\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "Day4_layout\\Views\\Shared\\_Sidebar.cshtml",
+              "ToolTip": "C:\\Users\\tn180\\OneDrive\\Desktop\\Thiet ke web\\Day4_layout\\Day4_layout\\Views\\Shared\\_Sidebar.cshtml*",
+              "RelativeToolTip": "Day4_layout\\Views\\Shared\\_Sidebar.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T13:43:02.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\tn180\\OneDrive\\Desktop\\Thiet ke web\\Day4_layout\\Day4_layout\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "Day4_layout\\Views\\Shared\\_Navbar.cshtml",
+              "ToolTip": "C:\\Users\\tn180\\OneDrive\\Desktop\\Thiet ke web\\Day4_layout\\Day4_layout\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "Day4_layout\\Views\\Shared\\_Navbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T13:42:35.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tn180\\OneDrive\\Desktop\\Thiet ke web\\Day4_layout\\Day4_layout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Day4_layout\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tn180\\OneDrive\\Desktop\\Thiet ke web\\Day4_layout\\Day4_layout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Day4_layout\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T07:22:57.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
